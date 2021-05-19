@@ -12,3 +12,4 @@ HW4 is classes exercise
 
 HW5 I honestly dont remember
 
+HW6 is exersise with lists in order to write out textual value of number value less than 1000
