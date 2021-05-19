@@ -8,3 +8,5 @@ HW2 is recursive dictionary excercise
 
 HW3 is calculating electric fields from 2 point charges a certain distance away 
 
+HW4 is classes exercise
+
